@@ -6,7 +6,6 @@ import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib
 from matplotlib.patches import Rectangle
-import japanize_matplotlib
 import glob
 from matplotlib.patches import Polygon
 from datetime import datetime, timedelta, date
